@@ -39,10 +39,6 @@ h2 {
 
 }
 
-
-
-
-
 .sorting{
     color: #ebebeb;
     
@@ -73,11 +69,16 @@ h2 {
 }
 
 .joke__container {
-    background-color: #ebebeb;
-    width: 330px ;
+   background-color: #ebebeb;
+   width: 330px ;
    padding: 2rem;
    margin: 2rem;
    border-radius: 5px;
+   display: flex;
+   margin: auto;
+   margin-bottom: 2rem;
+
+
    
   } 
   
